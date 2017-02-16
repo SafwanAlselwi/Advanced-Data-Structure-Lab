@@ -4,6 +4,7 @@ Advanced Data Structure Lab as per Bangalore University Syllabus
 These tutorials are about Advanced Data Structure Lab ( MCA305P ) or File Structure Lab (10ISL67 ) as per Bangalore University Syllabus, India.
 
 Programs are:
+
 1. Write a C++ Program to read series of names, one per line, from standard input and write these names spelled in reverse order to the standard output using I/O redirection and pipes. Repeat the exercise using an input file specified by the user instead of the standard input and using an output file specified by the user instead of the standard output.
 
 2. Write a C++ program to read and write student object with fixed length records and the fields delimited by “|”. Implement pack(), unpack(), modify(), and search() methods.
