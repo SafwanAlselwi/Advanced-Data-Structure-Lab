@@ -1,5 +1,6 @@
 # Advanced-Data-Structure-Lab
-Advanced Data Structure Lab as per Bangalore University Syllabus
+By: Safwan Alselwi 
+https://www.youtube.com/safwanalselwi
 
 These tutorials are about Advanced Data Structure Lab ( MCA305P ) or File Structure Lab (10ISL67 ) as per Bangalore University Syllabus, India.
 
