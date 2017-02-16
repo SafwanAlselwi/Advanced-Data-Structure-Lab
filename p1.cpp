@@ -1,4 +1,9 @@
-/*1.Write a C++ program to:
+/* 
+By: Safwan Alselwi
+Subscribe to my channel to get new lessons when they are published
+https://www.youtube.com/safwanalselwi
+
+1.Write a C++ program to:
 Read series of names, one per line, from standard input
 & write these names spelled in reverse order to the standard output using I/O redirection and pipes.
 
